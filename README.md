@@ -22,3 +22,18 @@ Bubble Sort is a simple sorting algorithm that repeatedly compares adjacent elem
 #### **Space Complexity:**
 - **O(1)** (In-place Sorting)
 ***  
+
+### **2. Insertion Sort**
+Insertion Sort works by building a sorted portion of the array one element at a time by picking an element and inserting it at the correct position within the sorted portion.
+#### **Concept:**
+- Builds the sorted array one element at a time by picking an element and inserting it in the correct position.
+- Works efficiently for small and nearly sorted arrays.
+
+#### **Time Complexity:**
+- **Best Case (Already Sorted):** O(n)
+- **Average Case:** O(n²)
+- **Worst Case (Reverse Sorted):** O(n²)
+
+#### **Space Complexity:**
+- **O(1)** (In-place Sorting)
+***  
