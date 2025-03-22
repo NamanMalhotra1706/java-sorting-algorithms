@@ -37,3 +37,6 @@ Insertion Sort works by building a sorted portion of the array one element at a 
 #### **Space Complexity:**
 - **O(1)** (In-place Sorting)
 ***  
+
+### **3. Selection sort**
+Selection Sort is a comparison-based sorting algorithm. It sorts an array by repeatedly selecting the smallest (or largest) element from the unsorted portion.
